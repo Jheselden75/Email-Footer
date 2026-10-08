@@ -1,25 +1,23 @@
 WEB CONTROL EMAIL FOOTER - IMAGE UPLOAD
 =======================================
 
-Please upload these 3 images to the website's existing hosted images folder,
+Please upload these 2 images to the website's existing hosted images folder,
 the same place the current email footer images live:
 
     https://www.webcontrol.co.uk/images/hosted/
 
 Files (keep the names exactly as they are, including capitals):
 
-    webcontrol-email-signature-light-600w.png
-    NetSuitePartnerOfTheYear2024.png
-    NetSuitePartnerOfTheYear2025.png
+    webcontrol-email-footer-logo.png
+    webcontrol-email-footer-awards.png
 
 Please DON'T delete or overwrite any existing files in that folder: the live
 email footer still uses them until the new one is switched on.
 
 When done, check each link opens the image in a browser:
 
-    https://www.webcontrol.co.uk/images/hosted/webcontrol-email-signature-light-600w.png
-    https://www.webcontrol.co.uk/images/hosted/NetSuitePartnerOfTheYear2024.png
-    https://www.webcontrol.co.uk/images/hosted/NetSuitePartnerOfTheYear2025.png
+    https://www.webcontrol.co.uk/images/hosted/webcontrol-email-footer-logo.png
+    https://www.webcontrol.co.uk/images/hosted/webcontrol-email-footer-awards.png
 
 Then let me know they're live, and I'll update the footer in Microsoft 365.
 
@@ -27,3 +25,5 @@ Notes
 - Images must be publicly reachable (no login), served over https.
 - If the server's file names are case-sensitive, keep the capitals exactly.
 - Please don't resize, recompress or rename the files.
+- If you already uploaded an earlier set of footer images, you can leave
+  them there; the new footer only uses these two files.
